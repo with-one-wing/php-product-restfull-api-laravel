@@ -1,6 +1,8 @@
 
 # README
 
+Test task on PHP Laravel Framework
+
 ## Installation
 
 1. php composer install 
